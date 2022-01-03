@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lab4zad2", "lab4zad2\lab4zad2.vcxproj", "{A7135FD7-66BE-4E83-9878-380E3BA42C32}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7135FD7-66BE-4E83-9878-380E3BA42C32}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A7135FD7-66BE-4E83-9878-380E3BA42C32}.Debug|Win32.Build.0 = Debug|Win32
+		{A7135FD7-66BE-4E83-9878-380E3BA42C32}.Release|Win32.ActiveCfg = Release|Win32
+		{A7135FD7-66BE-4E83-9878-380E3BA42C32}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
